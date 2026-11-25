@@ -34,4 +34,4 @@ Airtable · Arlington County property and revenue data
 ## Author
 
 **Clint Caccia**, Computer Information Systems, James Madison University
-[LinkedIn](https://www.linkedin.com/in/clint-caccia/)
+[LinkedIn](https://www.linkedin.com/in/clint-caccia-b70428354)
